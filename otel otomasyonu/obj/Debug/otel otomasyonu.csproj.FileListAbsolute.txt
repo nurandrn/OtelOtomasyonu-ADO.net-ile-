@@ -1,0 +1,52 @@
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.cik.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.cıkısislemleri.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Form1.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.odaa.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.REZERVASYONKAYITLARI.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.MÜŞTERİ_KAYITLARI.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.rezervasyon.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.İŞLEMSEÇ.resources
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe.config
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.pdb
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.exe
+C:\Users\Samsung\documents\visual studio 2012\Projects\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.pdb
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe.config
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.exe
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.pdb
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.pdb
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.cik.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.cıkısislemleri.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Form1.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.odaa.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.REZERVASYONKAYITLARI.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.MÜŞTERİ_KAYITLARI.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.rezervasyon.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.İŞLEMSEÇ.resources
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe.config
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.exe
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.pdb
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe.config
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.exe
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\bin\Debug\otel otomasyonu.pdb
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csprojAssemblyReference.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.cik.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.cıkısislemleri.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Form1.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.odaa.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.REZERVASYONKAYITLARI.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.MÜŞTERİ_KAYITLARI.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.Properties.Resources.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.rezervasyon.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel_otomasyonu.İŞLEMSEÇ.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csproj.GenerateResource.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.csproj.CoreCompileInputs.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.exe
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\otel otomasyonu\otel otomasyonu\obj\Debug\otel otomasyonu.pdb
